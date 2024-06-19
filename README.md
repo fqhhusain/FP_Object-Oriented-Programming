@@ -38,7 +38,23 @@ contohnya pada class Graph memiliki method sebagai berikut
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/09426641-08ab-4101-b37d-adbf78e8cffd)
 
 
-Constructor
+3. Constructor
+
+Constructor adalah metode khusus dalam sebuah kelas yang dipanggil secara otomatis ketika sebuah objek dari kelas tersebut dibuat. Constructor digunakan untuk menginisialisasi data anggota dari sebuah kelas. Constructor memiliki nama yang sama dengan nama kelas dan tidak memiliki tipe pengembalian, termasuk void.
+
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/ba0e1ecb-19fc-43e7-aae4-b7cd18c92159)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/057d5cbf-5cd9-4c01-bdfa-0bf710ead4c4)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/49b15c94-8a30-49a5-93b0-b4596e6b166b)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/cb0983ed-f880-4260-92ed-cdff6fb8722c)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/19a898a6-b522-4ca8-b0e9-20f3c30a38fd)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/4a315a68-6755-4225-9c59-cf11dfc5d633)
+
+
+
+
+
+
+
 Setter & Getter
 Encapsulation
 Inheritance
