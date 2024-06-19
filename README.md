@@ -1,4 +1,9 @@
 # FP_Object-Oriented-Programming
+Program ini dibuat dalam rangka penugasan mata kuliah Struktur Data dan Pemrograman Berorientasi Objek 
+
+## Anggota Kelompok
+- Riskiyatul Nur Oktarani 5027231013
+- Muhammad Faqih Husain 5027231023
 
 ## Deskripsi
 Program ini menerapkan konsep OOP dan konsep graph untuk mengimplementasikan Aplikasi kesehatan yang memiliki fitur utama untuk mengetahui layanan apa saja yang terdapat pada suatu fasilitas kesehatan serta dapat mengetahui lokasi fasilitas kesehatan terdekat dari suatu bangunan. Program ini dibuat dalam bentuk sebuah peta bangunan beserta jaraknya pada suatu daerah yang diimplementasikan dengan edge list. Graph yang diterapkan untuk mengimplementasikan jalan berupa weighted undirected grah. Jarak ke fasilitas kesehatan terdekat didapaktakn dengan algoritma shortest path yaitu dijkstra.
