@@ -59,9 +59,24 @@ Dalam pemrograman berorientasi objek (OOP), setter dan getter adalah metode yang
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/e241129e-f7ed-41f8-9dbe-d8116124720a)
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/d9cb22e3-faa0-45cb-86c9-b3aad362ea16)
 
-Encapsulation
-Inheritance
-Overriding
+5. Encapsulation
+
+Encapsulation dalam pemrograman berorientasi objek (OOP) adalah konsep untuk mengemas data bersama dengan metode yang beroperasi pada data tersebut dalam sebuah class. Ini berarti bahwa data (variabel) bersama dengan operasi (metode atau fungsi) yang bekerja pada data itu, dikemas bersama dalam satu unit yang disebut objek.
+
+![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/030232f8-9ac3-466a-a372-490bef15ed07)
+
+6. Inheritance
+
+Inheritance adalah suatu fitur atau proses dimana class baru dibuat dari class yang sudah ada. Kelas baru yang dibuat disebut “derived class” atau “child class” dan class yang sudah ada disebut “base class” atau “parent class”.
+
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/5d67115b-b0ae-40ee-96f8-f8d1b22117b3)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/0d3f51f8-db38-4b9d-8c15-5e5eb83cc1d2)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/2279f922-7c0e-4fa0-9463-c573c54f9d07)
+
+7. Overriding
+
+Overriding adalah sebuah method dari superclass (kelas induk) yang ditulis kembali pada subclass (kelas anak). Karena sering kali terdapat sebuah method dari superclass (kelas induk) yang aksi pada methodnya tidak sesuai jika diterapkan pada subclass (kelas anak).
+
 Access Modifier, Visibility
 Abstraction
 Polymorphism
