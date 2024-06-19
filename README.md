@@ -92,8 +92,23 @@ Contoh penerapan pada program adalah sebagai berikut :
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/e0a0846b-691d-4179-bddf-0c1127d2f2c1)
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/af0f05e2-3ca2-4662-a064-77e403eeb2c8)
 
+9. Abstraction
+
+Pada Class HealthcareFacility:
+- Mendeklarasikan metode virtual murni provideService, yang harus diimplementasikan oleh kelas turunannya.
+- Menyembunyikan detail implementasi dari bagaimana layanan disediakan, dan hanya menyediakan antarmuka dasar (getName, getType).
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/0a937ba2-aa48-4ef6-8caa-8f8487ae6454)
 
 
+10. Polymorphism
 
-Abstraction
-Polymorphism
+Kata “polymorphism” berarti memiliki banyak bentuk. Dengan kata sederhana, kita dapat mendefinisikan polymorphism sebagai kemampuan sebuah pesan untuk ditampilkan dalam lebih dari satu bentuk. Contoh nyata dari polymorphism adalah seseorang yang pada saat yang sama dapat memiliki karakteristik yang berbeda. Seorang pria pada saat yang sama adalah seorang ayah, suami, dan karyawan. Jadi orang yang sama menunjukkan perilaku yang berbeda dalam situasi yang berbeda. Ini disebut polymorphism. Polymorphism dianggap sebagai salah satu fitur penting dari Pemrograman Berorientasi Objek.
+
+Runtime polymorphism dicapai dengan Penimpaan Fungsi. Pengikatan akhir dan polimorfisme dinamis adalah nama lain dari polymorphism runtime. Pemanggilan fungsi diselesaikan pada saat runtime dalam polymorphism runtime. Sebaliknya, dengan polymorphism waktu kompilasi, kompiler menentukan pemanggilan fungsi mana yang akan diikat ke objek setelah menyimpulkannya pada saat runtime.
+
+Virtual function adalah fungsi anggota yang dideklarasikan di kelas dasar menggunakan kata kunci virtual dan didefinisikan ulang (override) di kelas turunan.
+
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/cf918870-e209-48da-9233-ef7e964f2ef5)
+
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/493f79c2-65ca-44b6-bc7a-95d7c4b557ce)
+
