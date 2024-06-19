@@ -51,13 +51,14 @@ Dalam program terdapat penggunaan Parameterized Constructor. Constructor ini dig
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/19a898a6-b522-4ca8-b0e9-20f3c30a38fd)
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/4a315a68-6755-4225-9c59-cf11dfc5d633)
 
+4. Setter & Getter
 
+Dalam pemrograman berorientasi objek (OOP), setter dan getter adalah metode yang digunakan untuk mengakses dan memodifikasi data anggota (member data) dari sebuah kelas. Ini membantu dalam mengontrol akses ke data dan menjaga enkapsulasi.Setter adalah Metode yang digunakan untuk mengatur nilai anggota data. Getter adalah Metode yang digunakan untuk mendapatkan nilai anggota data.
 
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/ebb82e10-213d-4705-8bae-73d2147af883)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/e241129e-f7ed-41f8-9dbe-d8116124720a)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/d9cb22e3-faa0-45cb-86c9-b3aad362ea16)
 
-
-
-
-Setter & Getter
 Encapsulation
 Inheritance
 Overriding
