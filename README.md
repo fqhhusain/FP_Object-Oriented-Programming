@@ -42,6 +42,8 @@ contohnya pada class Graph memiliki method sebagai berikut
 
 Constructor adalah metode khusus dalam sebuah kelas yang dipanggil secara otomatis ketika sebuah objek dari kelas tersebut dibuat. Constructor digunakan untuk menginisialisasi data anggota dari sebuah kelas. Constructor memiliki nama yang sama dengan nama kelas dan tidak memiliki tipe pengembalian, termasuk void.
 
+Dalam program terdapat penggunaan Parameterized Constructor. Constructor ini digunakan ketika kita ingin menginisialisasi data anggota dengan nilai tertentu pada saat pembuatan objek.
+
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/ba0e1ecb-19fc-43e7-aae4-b7cd18c92159)
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/057d5cbf-5cd9-4c01-bdfa-0bf710ead4c4)
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/49b15c94-8a30-49a5-93b0-b4596e6b166b)
