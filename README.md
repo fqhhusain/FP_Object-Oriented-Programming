@@ -82,8 +82,18 @@ Overriding adalah sebuah method dari superclass (kelas induk) yang ditulis kemba
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/cce2a8d1-2315-42d1-bda6-ce975364da79)
 - ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/967ee528-f11a-4690-b09a-19fc704ec042)
 
+8. Access Modifier, Visibility
+
+Konsep "Access Modifier" atau "Visibility" adalah bagian penting dari pemrograman berorientasi objek karena membantu mengatur akses terhadap properti dan metode dari suatu kelas. Access Modifier terbagi menjadi publik, private, dan protected.
+
+Contoh penerapan pada program adalah sebagai berikut :
+
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/a47ea3e3-fd65-4a70-a21f-45216947cf44)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/e0a0846b-691d-4179-bddf-0c1127d2f2c1)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/af0f05e2-3ca2-4662-a064-77e403eeb2c8)
 
 
-Access Modifier, Visibility
+
+
 Abstraction
 Polymorphism
