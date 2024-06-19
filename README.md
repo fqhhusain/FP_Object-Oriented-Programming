@@ -77,6 +77,13 @@ Inheritance adalah suatu fitur atau proses dimana class baru dibuat dari class y
 
 Overriding adalah sebuah method dari superclass (kelas induk) yang ditulis kembali pada subclass (kelas anak). Karena sering kali terdapat sebuah method dari superclass (kelas induk) yang aksi pada methodnya tidak sesuai jika diterapkan pada subclass (kelas anak).
 
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/d3aca27e-5ad9-4e48-857e-8ccafec3a070)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/7074c6f2-0416-43d2-a1f1-045ff1ac56a6)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/cce2a8d1-2315-42d1-bda6-ce975364da79)
+- ![image](https://github.com/fqhhusain/FP_Object-Oriented-Programming/assets/88548292/967ee528-f11a-4690-b09a-19fc704ec042)
+
+
+
 Access Modifier, Visibility
 Abstraction
 Polymorphism
