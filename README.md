@@ -1,5 +1,10 @@
 # FP_Object-Oriented-Programming
 
+## Deskripsi
+Program ini menerapkan konsep OOP dan konsep graph untuk mengimplementasikan Aplikasi kesehatan yang memiliki fitur utama untuk mengetahui layanan apa saja yang terdapat pada suatu fasilitas kesehatan serta dapat mengetahui lokasi fasilitas kesehatan terdekat dari suatu bangunan. Program ini dibuat dalam bentuk sebuah peta bangunan beserta jaraknya pada suatu daerah yang diimplementasikan dengan edge list. Graph yang diterapkan untuk mengimplementasikan jalan berupa weighted undirected grah. Jarak ke fasilitas kesehatan terdekat didapaktakn dengan algoritma shortest path yaitu dijkstra.
+
+Program ini menggunakan pendekatan OOP dengan fitur sebagai berikut:
+
 1. Class & Object
 
 Class adalah sebuah tipe data yang terdiri dari satu atau lebih data dan satu atau lebih fungsi. Sebuah class dapat diakses ketika class tersebut dipanggil dan dibuat dalam bentuk instance dari class tersebut.
